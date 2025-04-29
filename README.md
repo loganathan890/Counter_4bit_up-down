@@ -133,6 +133,7 @@ Click the cds.lib file and save the file by clicking on Save option
 
 	We are simulating verilog design without using any libraries
 
+![image](https://github.com/user-attachments/assets/d5202b97-ee5c-4e0e-9eaf-5f3fa733e546)
 
 ## Fig 5: Selection of Don’t include any libraries
 
